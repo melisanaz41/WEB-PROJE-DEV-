@@ -1,0 +1,9 @@
+body {
+    background-image:url("resimler/arkaplanim.jpg"); 
+     height: 100%; 
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+p { font-family: Open Sans, Candara; font-size: 14px; }
